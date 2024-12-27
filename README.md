@@ -6,7 +6,7 @@ This repository demonstrates how to send emails using **Node.js** and **Nodemail
 
 <p align="center">
   <img src="code.png" alt="Image" width="45%" />
-  <img src="WhatsApp Image 2024-12-27 at 1.21.00 PM.png" alt="Image" width="45%" />
+  <img src="WhatsAppImage2024-12-27at1.21.00PM.png" alt="Image" width="45%" />
 </p>
 
 
