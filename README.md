@@ -1,14 +1,7 @@
 # Nodemailer Email Sending Example
 
 This repository demonstrates how to send emails using **Node.js** and **Nodemailer**. The project includes a basic HTTP server that sends an email when accessed.
-
-## Image Gallery
-
-<p align="center">
-  <img src="code.png" alt="Image" width="45%" />
-  <img src="WhatsAppImage2024-12-27at1.21.00PM.png" alt="Image" width="45%" />
-</p>
-
+![Code Overview](code.png)
 
 ---
 
